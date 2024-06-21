@@ -1,0 +1,41 @@
+:root {
+    --young-serif-regular: 'YoungSerif', sans-serif;
+    --outfit-regular: 'OutfitRegular', sans-serif;
+    --outfit-bold: 'OutfitBold', 'sans-serif';
+    --outfit-semibold: 'OutfitSemiBold', 'sans-serif';
+}
+
+@font-face {
+    font-family: 'YoungSerif';
+    src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf)
+    format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+}
+
+@font-face {
+    font-family: 'OutfitRegular';
+    src: url(/assets/fonts/outfit/static/Outfit-Regular.ttf)
+    format('truetype');
+    font-style: normal;
+    line-height: 150%;
+}
+
+@font-face {
+    font-family: 'OutfitBold';
+    src: url(/assets/fonts/outfit/static/Outfit-Bold.ttf)
+    format('truetype');
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; 
+}
+
+@font-face {
+    font-family: 'OutfitSemiBold';
+    src: url(/assets/fonts/outfit/static/Outfit-SemiBold.ttf)
+    format('truetype');
+    line-height: 100%;
+    font-style: normal;
+    font-weight: 600;
+}
