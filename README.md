@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![](/assets/images/Screenshot_desktop_size.png)
 
-![](/assets/images/Screenshot_mobile_size.png)
+![](/assets/images/Screenshot_mobile_screen.png)
 
 ### Links
 
